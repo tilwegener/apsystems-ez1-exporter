@@ -1,0 +1,5 @@
+requests
+asyncio
+argparse
+json
+APsystemsEZ1
