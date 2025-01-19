@@ -21,6 +21,7 @@ Dieses Python-Skript dient zur Kommunikation mit einem APsystems Wechselrichter 
 
 ### Hardware:
 - Wechselrichter der Marke APsystems, Modell EZ1-M im lokalen Modus und im Netzwerk erreichbar.
+  - Den lokalen Modus kann man nur in in Version >1.6.0, bei vielen Herstellern wie z.B Zendure kann ein Update auf höhere Versionen nur durch den APSystems Support (diy_support.emea@apsystems.com) angestoßen werden.
 - Raspberry Pi oder Linux Server
 - Webserver mit PHP
 - MySQL Datenbank
